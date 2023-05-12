@@ -12,5 +12,7 @@
 </head>
 <body>
     <div>hello</div>
+    <h1>으아아아아아아아아아아아아아아아아아아아아</h1>
+    <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="">
 </body>
 </html>
